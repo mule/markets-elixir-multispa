@@ -39,4 +39,7 @@ config :markets, Markets.Repo,
   password: "password",
   database: "markets_dev",
   hostname: "milltorq-dev.cloudapp.net",
-  pool_size: 10
+  pool_size: 10,
+  extensions: [
+    {ArticleTrackerHd.Postgrex.Types.Ltree, []} 
+  ]

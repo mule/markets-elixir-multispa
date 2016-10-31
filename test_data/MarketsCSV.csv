@@ -1,0 +1,69 @@
+level0;level1;level2;level3;exposure
+AllMarkets;DevelopedMarket;Americas;Canada;0,823879
+AllMarkets;DevelopedMarket;Americas;United States;0,756502
+AllMarkets;DevelopedMarket;Europe & Middle East;Austria;0,040898
+AllMarkets;DevelopedMarket;Europe & Middle East;Belgium;0,447238
+AllMarkets;DevelopedMarket;Europe & Middle East;Denmark;0,490787
+AllMarkets;DevelopedMarket;Europe & Middle East;Finland;0,795984
+AllMarkets;DevelopedMarket;Europe & Middle East;France;0,119349
+AllMarkets;DevelopedMarket;Europe & Middle East;Germany;0,579259
+AllMarkets;DevelopedMarket;Europe & Middle East;Ireland;0,903467
+AllMarkets;DevelopedMarket;Europe & Middle East;Israel;0,005738
+AllMarkets;DevelopedMarket;Europe & Middle East;Italy;0,335856
+AllMarkets;DevelopedMarket;Europe & Middle East;Netherlands;0,413324
+AllMarkets;DevelopedMarket;Europe & Middle East;Norway;0,336645
+AllMarkets;DevelopedMarket;Europe & Middle East;Portugal;0,214926
+AllMarkets;DevelopedMarket;Europe & Middle East;Spain;0,304631
+AllMarkets;DevelopedMarket;Europe & Middle East;Sweden;0,223601
+AllMarkets;DevelopedMarket;Europe & Middle East;Switzerland;0,028695
+AllMarkets;DevelopedMarket;Europe & Middle East;UK;0,595022
+AllMarkets;DevelopedMarket;Pacific;Australia;0,754047
+AllMarkets;DevelopedMarket;Pacific;Hongkong;0,532083
+AllMarkets;DevelopedMarket;Pacific;Japan;0,062211
+AllMarkets;DevelopedMarket;Pacific;New Zealand;0,055186
+AllMarkets;DevelopedMarket;Pacific;Singapore;0,638842
+AllMarkets;EmergingMarket;Pacific;Brazil;0,457263
+AllMarkets;EmergingMarket;Americas;Chile;0,427781
+AllMarkets;EmergingMarket;Americas;Colombia;0,772725
+AllMarkets;EmergingMarket;Americas;Mexico;0,682772
+AllMarkets;EmergingMarket;Americas;Peru;0,746026
+AllMarkets;EmergingMarket;Europe, Middle East & Africa;Czech Republic;0,381834
+AllMarkets;EmergingMarket;Europe, Middle East & Africa;Egypt;0,159903
+AllMarkets;EmergingMarket;Europe, Middle East & Africa;Greece;0,657219
+AllMarkets;EmergingMarket;Europe, Middle East & Africa;Hungary;0,082734
+AllMarkets;EmergingMarket;Europe, Middle East & Africa;Poland;0,103482
+AllMarkets;EmergingMarket;Europe, Middle East & Africa;Qatar;0,509871
+AllMarkets;EmergingMarket;Europe, Middle East & Africa;Russia;0,488437
+AllMarkets;EmergingMarket;Europe, Middle East & Africa;South Africa;0,602306
+AllMarkets;EmergingMarket;Europe, Middle East & Africa;Turkey;0,572915
+AllMarkets;EmergingMarket;Europe, Middle East & Africa;UAE;0,253554
+AllMarkets;EmergingMarket;Asia;China;0,300908
+AllMarkets;EmergingMarket;Asia;India;0,42389
+AllMarkets;EmergingMarket;Asia;Indonesia;0,591404
+AllMarkets;EmergingMarket;Asia;Korea;0,894297
+AllMarkets;EmergingMarket;Asia;Malaysia;0,913465
+AllMarkets;EmergingMarket;Asia;Philippines;0,575922
+AllMarkets;EmergingMarket;Asia;Taiwan;0,391774
+AllMarkets;EmergingMarket;Asia;Thailand;0,296273
+AllMarkets;FrontierMarket;Americas;Argentina;0,000916
+AllMarkets;FrontierMarket;Europe & CIS;Croatia;0,425643
+AllMarkets;FrontierMarket;Europe & CIS;Estonia;0,828506
+AllMarkets;FrontierMarket;Europe & CIS;Lithuania;0,341836
+AllMarkets;FrontierMarket;Europe & CIS;Kazakhstan;0,945908
+AllMarkets;FrontierMarket;Europe & CIS;Romania;0,454325
+AllMarkets;FrontierMarket;Europe & CIS;Serbia;0,52532
+AllMarkets;FrontierMarket;Europe & CIS;Slovenia;0,86766
+AllMarkets;FrontierMarket;Africa;Kenya;0,641539
+AllMarkets;FrontierMarket;Africa;Mauritius;0,609063
+AllMarkets;FrontierMarket;Africa;Morocco;0,108312
+AllMarkets;FrontierMarket;Africa;Nigeria;0,253011
+AllMarkets;FrontierMarket;Africa;Tunisia;0,698177
+AllMarkets;FrontierMarket;Middle East;Bahrain;0,880331
+AllMarkets;FrontierMarket;Middle East;Jordan;0,806003
+AllMarkets;FrontierMarket;Middle East;Kuwait;0,853209
+AllMarkets;FrontierMarket;Middle East;Lebanon;0,959819
+AllMarkets;FrontierMarket;Middle East;Oman;0,739849
+AllMarkets;FrontierMarket;Asia;Bangladesh;0,378914
+AllMarkets;FrontierMarket;Asia;Pakistan;0,817484
+AllMarkets;FrontierMarket;Asia;Srlanka;0,092831
+AllMarkets;FrontierMarket;Asia;Vietnam;0,302271
