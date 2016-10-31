@@ -41,6 +41,7 @@ defmodule Markets.Seeds do
       String.trim(term)
       |> String.replace(" ", "_")
       |> String.replace("&", "and")
+      |> String.replace(",", "_")
       |> String.downcase
     {:ok, cleaned_term}
   end
@@ -60,4 +61,6 @@ File.stream!("./test_data/MarketsCSV.csv")
 |> Stream.drop(1)
 |> CSV.decode(separator: ?;, headers: [:level0, :level1, :level2, :level3, :exposure])
 |> Enum.reduce(%{},&(Markets.Seeds.update_market_tree(&1, &2)))
-|> Enum.each(&(IO.inspect &1))
+|> Map.to_list
+|> Enum.map(fn({key, %{ :exposure => exposure, :name => name}}) -> %Markets.Market{path: key, exposure: exposure, name: name } end)
+|> Enum.each( &(Markets.Repo.insert &1))
