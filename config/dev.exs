@@ -41,5 +41,6 @@ config :markets, Markets.Repo,
   hostname: "milltorq-dev.cloudapp.net",
   pool_size: 10,
   extensions: [
-    {ArticleTrackerHd.Postgrex.Types.Ltree, []} 
+    {ArticleTrackerHd.Postgrex.Types.Ltree, []}, 
+    {ArticleTrackerHd.Postgrex.Types.Lquery, []}
   ]

@@ -38,7 +38,8 @@ defmodule Markets.Router do
  end
 
   # Other scopes may use custom stacks.
-  # scope "/api", Markets do
-  #   pipe_through :api
-  # end
+   scope "/api", Markets do
+   pipe_through :api
+   get "/", MarketsController, :index
+   end
 end
